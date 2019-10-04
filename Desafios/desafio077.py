@@ -1,0 +1,3 @@
+palavras = ('APRENDER', 'LER', 'ESTUDAR', 'PYTHON', 'RICARDO',
+            'FUTURO', 'CALENDARIO', 'OUTUBRO', 'TRABALHAR',
+            'SETEMBRO', 'TRINTA', 'BATATA', 'RODOLFO')
