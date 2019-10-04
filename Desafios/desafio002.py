@@ -1,0 +1,8 @@
+x = input('Digite algo: ')
+print(type(x))
+print('É alfanumerico:', x.isalnum())
+print('É letra:', x.isalpha())
+print('É número:', x.isdecimal())
+print('É minusculo:', x.islower())
+print('É maisculo:', x.isupper())
+print('É titulo:', x.istitle())
