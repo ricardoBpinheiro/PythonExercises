@@ -4,7 +4,7 @@ for k in pessoas.values():
 print('-=' * 10)
 
 for k in pessoas.items():
-    print(k)            # Printa os valores os itens do dic
+    print(k)            # Printa os valores dos itens do dic
 print('-=' * 10)
 
 for k, v in pessoas.items():
