@@ -11,7 +11,6 @@ for i in range(0, 5):
     if cont == 1:
         maior = num
         menor = num
-
     else:
         if num > maior:
             maior = num
