@@ -1,0 +1,7 @@
+help(print)
+print('-=' * 40)
+help(len)
+print('-=' * 40)
+help(input)
+print('-=' * 40)
+print(input.__doc__)
