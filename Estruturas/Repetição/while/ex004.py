@@ -2,7 +2,7 @@ n = 1
 par = 0
 impar = 0
 while n != 0:
-    n = int(input('Digite um valor: '))
+    n = int(input('Digite um valor [0 para sair]: '))
     if n != 0:
         if n % 2 == 0:
             par += 1
